@@ -4,4 +4,7 @@
 phpinfo();
 
 
+//test 2
+echo "pippo";
+
 ?>
